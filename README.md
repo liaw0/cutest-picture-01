@@ -3,7 +3,10 @@
 An original, programmatically drawn baby chick for make.fun's
 `cutest-picture-01` competition: one big round yellow chick with huge
 glossy eyes, rosy cheeks, a tiny pink bow, a head tuft and one little
-wing raised in a wave, on a soft cream background.
+wing raised in a wave, on a soft cream background. The eyes were made
+extra large (big bright eyes carry the whole face), the body has a soft
+sheen on its upper left, and the little feet have toe lines so they
+read as clumsy paws.
 
 ## How it works
 
